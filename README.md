@@ -11,10 +11,12 @@ This project is set up to determine if there is a bias towards favorable reviews
 ![Total non-Vine reviews](Images/unpaidtotal.png)
 
 * Vine 5 star reveiws versus non-Vine
+
 ![Total Vine 5-star reviews](Images/paidfive.png)
 ![Total non-Vine 5-star reviews](Images/unpaidfive.png)
 
 * Percentage of positive reviews that are Vine versus non-Vine
+
 ![Vine 5-star percentage](Images/paidpercent.png)
 ![Non-Vine 5-star percentage](Images/unpaidpercent.png)
 
