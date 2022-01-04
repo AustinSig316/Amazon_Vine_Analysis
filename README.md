@@ -6,6 +6,7 @@ This project is set up to determine if there is a bias towards favorable reviews
 ## Results
 
 * Total Vine reviews versus non-Vine
+
 ![Total Vine reviews](Images/paidtotal.png)
 ![Total non-Vine reviews](Images/unpaidtotal.png)
 
